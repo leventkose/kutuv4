@@ -1,0 +1,9 @@
+C:\Users\Levent\Desktop\Calismalarim\KutuV4\KutuV4\bin\Release\KutuV4.dll
+C:\Users\Levent\Desktop\Calismalarim\KutuV4\KutuV4\bin\Release\KutuV4.pdb
+C:\Users\Levent\Desktop\Calismalarim\KutuV4\KutuV4\bin\Release\KutuV4.xml
+C:\Users\Levent\Desktop\Calismalarim\KutuV4\KutuV4\obj\Release\KutuV4.Aln.resources
+C:\Users\Levent\Desktop\Calismalarim\KutuV4\KutuV4\obj\Release\KutuV4.Resources.resources
+C:\Users\Levent\Desktop\Calismalarim\KutuV4\KutuV4\obj\Release\KutuV4.vbproj.GenerateResource.cache
+C:\Users\Levent\Desktop\Calismalarim\KutuV4\KutuV4\obj\Release\KutuV4.dll
+C:\Users\Levent\Desktop\Calismalarim\KutuV4\KutuV4\obj\Release\KutuV4.xml
+C:\Users\Levent\Desktop\Calismalarim\KutuV4\KutuV4\obj\Release\KutuV4.pdb

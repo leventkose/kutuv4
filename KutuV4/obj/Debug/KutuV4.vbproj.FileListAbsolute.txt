@@ -1,0 +1,11 @@
+L:\Users\Levent\Desktop\Calismalarim\KutuV4\KutuV4\bin\Debug\KutuV4.dll
+L:\Users\Levent\Desktop\Calismalarim\KutuV4\KutuV4\bin\Debug\KutuV4.pdb
+L:\Users\Levent\Desktop\Calismalarim\KutuV4\KutuV4\bin\Debug\KutuV4.xml
+L:\Users\Levent\Desktop\Calismalarim\KutuV4\KutuV4\obj\Debug\ResolveAssemblyReference.cache
+L:\Users\Levent\Desktop\Calismalarim\KutuV4\KutuV4\obj\Debug\KutuV4.Gnl.resources
+L:\Users\Levent\Desktop\Calismalarim\KutuV4\KutuV4\obj\Debug\KutuV4.Resources.resources
+L:\Users\Levent\Desktop\Calismalarim\KutuV4\KutuV4\obj\Debug\GenerateResource.read.1.tlog
+L:\Users\Levent\Desktop\Calismalarim\KutuV4\KutuV4\obj\Debug\GenerateResource.write.1.tlog
+L:\Users\Levent\Desktop\Calismalarim\KutuV4\KutuV4\obj\Debug\KutuV4.dll
+L:\Users\Levent\Desktop\Calismalarim\KutuV4\KutuV4\obj\Debug\KutuV4.xml
+L:\Users\Levent\Desktop\Calismalarim\KutuV4\KutuV4\obj\Debug\KutuV4.pdb
